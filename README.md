@@ -26,6 +26,10 @@ _Contact Bill at bill@beautifulborabora.com._
 
 _HTML, CSS, Git, Github with merging branches_
 
+### GitHub Pages Link
+* https://jennifer-kinsey.github.io/bora-bora/
+* https://akane0915.github.io/beautiful-bora-bora/
+
 ### License
 
 *This software is licensed under the MIT license*
